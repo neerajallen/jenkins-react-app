@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1>Hello</h1>
-      <h2>This is a jenkins triggered build</h2>
+      <h2>neeraj sharma </h2>
     </div>
   );
 }
