@@ -5,8 +5,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Hello</h1>
-      <h2>Ajmer Rajasthan </h2>
+      <h1>Devops Pipeline</h1>
+      <h2>Neeraj Kumar Sharma </h2>
     </div>
   );
 }
