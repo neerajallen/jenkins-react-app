@@ -5,12 +5,12 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Allen Digital Office</h1>
+      <h1>Kappa Office</h1>
       <h2>Address </h2>
-    <p>Corporate Office
-Allen Digital, One Biz Square, A-12(a),
-Road No. 1, Indraprastha Industrial Area,
-Kota(Raj.) 324005.</p>
+    <p>Kappa Internet Services Private Limited,
+H-33, Electronic Complex
+Road No.1, IPIA
+KOTA - 324005, Rajasthan, INDIA </p>
     </div>
   );
 }
