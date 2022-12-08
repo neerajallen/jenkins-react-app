@@ -5,8 +5,12 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Devops Pipeline</h1>
-      <h2>Neeraj Kumar Sharma </h2>
+      <h1>Allen Digital Office</h1>
+      <h2>Address </h2>
+    <p>Corporate Office
+Allen Digital, One Biz Square, A-12(a),
+Road No. 1, Indraprastha Industrial Area,
+Kota(Raj.) 324005.</p>
     </div>
   );
 }
