@@ -7,10 +7,7 @@ function App() {
     <div className="App">
       <h1>Kappa Office</h1>
       <h2>Address </h2>
-    <p>Kappa Internet Services Private Limited,
-H-33, Electronic Complex
-Road No.1, IPIA
-KOTA - 324005, Rajasthan, INDIA </p>
+    <p>Neeraj Kumar Sharma Sunder Nagar Kota Rajasthan </p>
     </div>
   );
 }
