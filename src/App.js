@@ -5,9 +5,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Kappa Office</h1>
+      <h1>Kota Rajasthan</h1>
       <h2>Address </h2>
-    <p>Neeraj Kumar Sharma Sunder Nagar Kota Rajasthan </p>
+    <p>NK Sharma Sunder Nagar Kota Rajasthan </p>
     </div>
   );
 }
