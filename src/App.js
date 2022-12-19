@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <h1>Kota Rajasthan</h1>
       <h2>Address </h2>
-    <p>NK Sharma Sunder Nagar Kota Rajasthan </p>
+    <p>Neeraj Sharma Sunder Nagar Kota Rajasthan </p>
     </div>
   );
 }
