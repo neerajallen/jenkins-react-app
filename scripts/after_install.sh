@@ -8,5 +8,5 @@ cd /home/ubuntu/server
 #rm -rf build
 
 #Install_node_modules_&_Make_React_Build
-sudo npm  i
-sudo npm run build
+npm  install
+npm run build --prod
