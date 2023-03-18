@@ -7,4 +7,6 @@ cd /home/ubuntu/server
 #sudo pm2 delete Frontend
 #sudo pm2 start server.js --name Frontend
 #pm2 delete Frontend
+pm2 stop Frontend
+pm2 delete Frontend
 pm2 start server.js --name Frontend
